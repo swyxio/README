@@ -68,6 +68,7 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 - I am a friendly introvert; I love meeting people in real life in non noisy environments.
 - I love making work fun and adding in emojis and memes to spice up a core message! This can sometimes involve [writing song parodies as an outlet](https://twitter.com/swyx/status/980486609517907968) - I will sing them for you if under the influence. If I were actually any good at it I'd be a singer-songwriter.
+- I am not a polished speaker (still working on my ums and ahs) but have generally done well speaking from the heart about great ideas and other things I am passionate about.
 
 ## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 
