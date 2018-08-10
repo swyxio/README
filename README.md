@@ -33,7 +33,7 @@ the product, helping to reduce churn, and improve engagement as well as revenue 
 
 ## Me in a few words
 
-- Born and raised in Singapore
+- Born and raised in Singapore, family are all still there and I visit at least once a year. My baby sister is the most important person in the world to me and she is learning to be a dentist!
 - Came to the US for college in 2007
 - Started my career trading equities, interest rate, currency, and volatility derivatives in investment banks/hedge funds
 - Made apps for risk management, pricing, and portfolio management in Python and Haskell as part of the job
@@ -41,6 +41,7 @@ the product, helping to reduce churn, and improve engagement as well as revenue 
 - Went through [Fullstack](http://fullstackacademy.com/) to get up to speed on JS as JS is everywhere
 - Started being active in [Dev Twitter](https://twitter.com/swyx), speaking in the [NYC tech meetup scene](https://nyc.js.org/), and moderating [/r/reactjs](https://www.reddit.com/r/reactjs).
 - [Linkedin has an accurate chronology](https://www.linkedin.com/in/shawnswyxwang)
+- My full english + chinese name is Shawn Wang Yue Xian, when I was 13 people started calling me "swyx" and it stuck.
 
 ## What I believe most
 
