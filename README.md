@@ -40,7 +40,6 @@ the product, helping to reduce churn, and improve engagement as well as revenue 
 - After a brief run in product management decided to make engineering my fulltime job as it's what I enjoy most
 - Went through [Fullstack](http://fullstackacademy.com/) to get up to speed on JS as JS is everywhere
 - Started being active in [Dev Twitter](https://twitter.com/swyx), speaking in the [NYC tech meetup scene](https://nyc.js.org/), and moderating [/r/reactjs](https://www.reddit.com/r/reactjs).
-- [Linkedin has an accurate chronology](https://www.linkedin.com/in/shawnswyxwang)
 - My full english + chinese name is Shawn Wang Yue Xian, when I was 13 people started calling me "swyx" and it stuck.
 
 ## What I believe most
