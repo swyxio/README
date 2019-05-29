@@ -27,20 +27,20 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 1. **Start with Why**: I generally (but don't literally) believe in [asking 5 Whys](https://en.wikipedia.org/wiki/5_Whys) and will often question why we are doing a thing as it may not be the best way of achieving our ultimate intended goal.
 2. **Frequent, Specific Deliverables**: I work best when I know exactly what is expected of me. I'm also a sprinter and will move heaven and earth to deliver something I've signed up to deliver.
-3. **Stretch**: I have no problem signing up for things slightly out of my comfort zone and knowledge level, in fact I love the challenge and do my best work on the edge.
+3. **Stretch**: I have no problem signing up for things slightly out of my comfort zone and knowledge level, in fact I love the challenge and do my best work on the edge. I'm willing to go to the second tab of a google search. That's some due diligence right there.
 
 ## How I Work
 
 - **How should people set time with you?** I may close Slack when in the flow of things, so I may not always be present there. I check email about twice a day. I generally like scheduling video chats with a day's notice. If there is something urgent, please call my cell (number on my Slack profile).
 - **What's the best way to discuss issues with you?** I am extremely open to direct 1 on 1 feedback and don't need a [compliment sandwich](https://www.quickbase.com/blog/stop-using-the-compliment-sandwich-and-give-better-feedback).
 - **How do you define "Done"?** My bar for "done" is probably lower than yours (see "Learn in Public", above). But I also expect to work on things after they are "initially done", i.e. I probably see more stages to a task than most. I do not put documentation at the end of my process so much as use it as a planning and support tool while I code, but having good docs are very much part of how I define "Done". Tests are great, but only make sense if there is stability in the API/idea so it is more of a judgment call for me than some who want everything unit tested.
-- **When are you available?** I am a night owl regardless of time zone, weird but true. I am currently in New York City and typing this at 4am in the morning. I can of course do morning work if it calls for it, but I'm just sharing my weird default.
+- **When are you available?** Chicago timezone
 
 ## Personality quirks
 
-- I am a friendly introvert; I love meeting people in real life in non noisy environments.
-- I love making work fun and adding in emojis and memes to spice up a core message! This can sometimes involve [writing song parodies as an outlet](https://twitter.com/swyx/status/980486609517907968) - I will sing them for you if under the influence. If I were actually any good at it I'd be a singer-songwriter.
-- I am not a polished speaker (still working on my ums and ahs) but have generally done well speaking from the heart about great ideas and other things I am passionate about.
+- I am a enthusiastic extrovert. I grew up as a chubby, unpopular boy, so I was forced to work on my personality growing up. It paid dividends many times over :)
+
+-
 
 ## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 
@@ -53,6 +53,6 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
 
-I forked this readme from another great example.
+I forked this README from another great example.
 
-This is a living document, and I can't wait to see show you my new commits along the way :)
+This is a living document, and I can't wait to show you my new commits along the way :)
