@@ -1,4 +1,4 @@
-# Hi, I'm swyx
+# Howdy, I'm Sung!
 
 ## Why read me?
 
@@ -13,12 +13,12 @@ I am also very imperfect and I hope that my transparency about them here is not 
 I'm excited to be a DX Engineer at Netlify! I absolutely love my job description so here it is in full:
 
 - The DX team is focused on empowering developers (customers & partners) by making it as easy &
-streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
+  streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
 - The DX team are the internal dogfooders. They stretch, bend, and break the tools Netlify offer to
-make things better for the ever expanding group of developers.
+  make things better for the ever expanding group of developers.
 - DX work closely with product, support, docs, users & partners to push the product to new heights,
-teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into
-the Netlify ecosystem.
+  teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into
+  the Netlify ecosystem.
 - As a DX engineer you will be immersed in a wild range of projects:
   - Building demo applications with bleeding edge tech
   - Coming up with innovative & creative ways to build things on Netlify
@@ -31,7 +31,7 @@ In other words: this is a growth + engineering role that traverses from top of f
 education in talks, podcasts, blogs, seminars and workshops) through on-boarding developers into
 the product, helping to reduce churn, and improve engagement as well as revenue expansion.
 
-## Me in a few words
+## TL;DR
 
 - Born and raised in Singapore, family are all still there and I visit at least once a year. My baby sister is the most important person in the world to me and she is learning to be a dentist!
 - Came to the US for college in 2007
@@ -45,7 +45,7 @@ the product, helping to reduce churn, and improve engagement as well as revenue 
 ## What I believe most
 
 1. **[Learn in Public](https://twitter.com/swyx/status/1009174159690264579)**: I prefer to share what I learn and work on, after doing my level best, but before it is perfect. This means I will be wrong more often than most people, but I respond very well to people who correct me because I always reserve the right to be wrong. I do not share everything, in particular my political views.
-2. **Systems over Goals**: There are things I can control and things I can't. Of the things I can control I focus on the items I can work on more frequently that can compound, and get me tangibly closer toward a goal. But the goal isn't the point. The goal doesn't matter. It is the system that sustainably gets me there that is everything, and I welcome the opportunity to periodically take a step back and work on the system instead of working in the system. 
+2. **Systems over Goals**: There are things I can control and things I can't. Of the things I can control I focus on the items I can work on more frequently that can compound, and get me tangibly closer toward a goal. But the goal isn't the point. The goal doesn't matter. It is the system that sustainably gets me there that is everything, and I welcome the opportunity to periodically take a step back and work on the system instead of working in the system.
 3. **Intrinsic Drive over Extrinsic Motivation**: [Drive](https://twitter.com/swyx/status/968688836468453376) is a wake-up call to me. I don't quite know what it means yet in the context of work but I definitely function like this. For Netlify it probably maps closest to the team value of Empowerment. I will come up with (too many) ideas and welcome criticism of them, and in return don't take my criticism of your ideas as a criticism of you.
 
 ## Accountability
@@ -74,10 +74,12 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 - I shut down when people are bikeshedding (spending disproportionate time debating small things that they know well while not discussing bigger things that really matter). Yes, what "really matters" is subjective. But I will pick silence over contributing to what I perceive as noise. If it really does matter and you see me shut off, please tell me why it matters (see 5 Whys). I may respond by pointing to the bigger thing that does matter in my view.
 - I've been accused of being too direct with people without context. I don't like smalltalk and while I respect that there I things I don't know, I often implicitly assume that people will fill me in on what I need to know if they see me assuming things in error. This can be a bad assumption.
 - Because "my bar for done is probably lower than yours" (see above) it can appear like I don't care about details. I care (watch how rarely I make grammatical/spelling mistakes) but I care -more- about getting things out and iterating on the big picture first rather than debating wording on a button. Obviously, a lot more cases in real life are more ambiguous than that. If I make a judgement error and the detail really does matter, please call me out on it and I will work with you.
-- *This is a non exhaustive list; There are definitely more things I can't think of right now.*
+- _This is a non exhaustive list; There are definitely more things I can't think of right now._
 
 # Misc
 
 This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
 
-This is a living document and I will update it as I refine my self-knowledge over time.
+I forked this readme from another great example.
+
+This is a living document, and I can't wait to see show you my new commits along the way :)
