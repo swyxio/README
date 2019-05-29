@@ -10,37 +10,12 @@ I am also very imperfect and I hope that my transparency about them here is not 
 
 ## My role
 
-I'm excited to be a DX Engineer at Netlify! I absolutely love my job description so here it is in full:
-
-- The DX team is focused on empowering developers (customers & partners) by making it as easy &
-  streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
-- The DX team are the internal dogfooders. They stretch, bend, and break the tools Netlify offer to
-  make things better for the ever expanding group of developers.
-- DX work closely with product, support, docs, users & partners to push the product to new heights,
-  teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into
-  the Netlify ecosystem.
-- As a DX engineer you will be immersed in a wild range of projects:
-  - Building demo applications with bleeding edge tech
-  - Coming up with innovative & creative ways to build things on Netlify
-  - Working with other SAAS companies and onboarding them as partner integrations
-  - Building a world class developer experiences including tooling, CLI
-  - Creating content/talks/presentations spreading awareness on what’s truly possible on Netlify
-  - Helping close enterprise sales
-
-In other words: this is a growth + engineering role that traverses from top of funnel (awareness and
-education in talks, podcasts, blogs, seminars and workshops) through on-boarding developers into
-the product, helping to reduce churn, and improve engagement as well as revenue expansion.
+- Consider adding a slalom build job description here
 
 ## TL;DR
 
-- Born and raised in Singapore, family are all still there and I visit at least once a year. My baby sister is the most important person in the world to me and she is learning to be a dentist!
-- Came to the US for college in 2007
-- Started my career trading equities, interest rate, currency, and volatility derivatives in investment banks/hedge funds
-- Made apps for risk management, pricing, and portfolio management in Python and Haskell as part of the job
-- After a brief run in product management decided to make engineering my fulltime job as it's what I enjoy most
-- Went through [Fullstack](http://fullstackacademy.com/) to get up to speed on JS as JS is everywhere
-- Started being active in [Dev Twitter](https://twitter.com/swyx), speaking in the [NYC tech meetup scene](https://nyc.js.org/), and moderating [/r/reactjs](https://www.reddit.com/r/reactjs).
-- My full english + chinese name is Shawn Wang Yue Xian, when I was 13 people started calling me "swyx" and it stuck.
+- add quick bits of career journey and milestones
+- certifications aren't everything, building real, living, useful things are the way to go
 
 ## What I believe most
 
