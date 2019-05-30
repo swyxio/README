@@ -49,6 +49,10 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 - Because "my bar for done is probably lower than yours" (see above) it can appear like I don't care about details. I care (watch how rarely I make grammatical/spelling mistakes) but I care -more- about getting things out and iterating on the big picture first rather than debating wording on a button. Obviously, a lot more cases in real life are more ambiguous than that. If I make a judgement error and the detail really does matter, please call me out on it and I will work with you.
 - _This is a non exhaustive list; There are definitely more things I can't think of right now._
 
+## Tools I Use
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sungchun12/my-stack)
+
 # Misc
 
 This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
