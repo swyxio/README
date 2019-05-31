@@ -17,9 +17,7 @@ I am also very imperfect and I hope that my transparency about them here is not 
 - add quick bits of career journey and milestones
 - certifications aren't everything, building real, living, useful things are the way to go
 
-## What I believe in
-
-1. Learn by Building(illustrate my obessions with certifications, and how I'm moving to a project and tool-building model), center people, Surpass who you are, not simply get what you want(name the linkedin and golden handcuffs story, link to dragon ball z timestamp)
+## What I Believe In
 
 1. **Learning by Building**: I'm a big proponent that hands-on, tangible work reveals skill and growth more than lectures and certifications by themselves. In the past, I would limit myself in thinking academic technical knowledge around a topic equated to being ready to deploy something production worthy on day one. I thought I had to create the same POC everyone creates on their first Medium blog post to show, "Hey, I'm an engineer internet stranger! Validate me!" I thought filling my resume with the just the right recipe of buzzwords so as to pass through recruiting software keyword filters but human enough for a recruiter's glance was enough. Old me used proxies to being a better engineer without actually working to become a better engineer. Having is not the same as being. Appearances are the not same as being. I'm way more interested in journeying with myself and with you in building meaningful experiences and tools that actually work rather than stroking my ego on a pet project that validates the old me.
 
