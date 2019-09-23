@@ -58,7 +58,7 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 ## How I Work
 
-- **How should people set time with you?** I may close Slack when in the flow of things, so I may not always be present there. I check email about twice a day. I generally like scheduling video chats with a day's notice. If there is something urgent, please call my cell (number on my Slack profile).
+- **How should people set time with you?** I may close Slack when in the flow of things, so I may not always be present there. I check email about twice a day. I generally like scheduling video chats with a day's notice. You can also book time on my calendar whenever i'm not free and then send me a note.
 - **What's the best way to discuss issues with you?** I am extremely open to direct 1 on 1 feedback and don't need a [compliment sandwich](https://www.quickbase.com/blog/stop-using-the-compliment-sandwich-and-give-better-feedback).
 - **How do you define "Done"?** My bar for "done" is probably lower than yours (see "Learn in Public", above). But I also expect to work on things after they are "initially done", i.e. I probably see more stages to a task than most. I do not put documentation at the end of my process so much as use it as a planning and support tool while I code, but having good docs are very much part of how I define "Done". Tests are great, but only make sense if there is stability in the API/idea so it is more of a judgment call for me than some who want everything unit tested.
 - **When are you available?** I am a night owl regardless of time zone, weird but true. I am currently in New York City and typing this at 4am in the morning. I can of course do morning work if it calls for it, but I'm just sharing my weird default.
@@ -71,13 +71,20 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 ## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 
+- In 2018-19 [the top feedback I got in my 360](https://www.swyx.io/writing/netlify-year-one-360-review) was that I don't communicate well or enough in some contexts, and often seem distracted. People report that I:
+  - move fast and skip steps
+  - dont provide enough context in issues or externally
+    - In particular, longer explanations to customers, not imperative: do this, do that
+    - provide more context in GH repos
+  - am not engaged in calls/dont value others contributions to conversations/dont pay attention when others are speaking
+  - working on too many things at once
 - I shut down when people are bikeshedding (spending disproportionate time debating small things that they know well while not discussing bigger things that really matter). Yes, what "really matters" is subjective. But I will pick silence over contributing to what I perceive as noise. If it really does matter and you see me shut off, please tell me why it matters (see 5 Whys). I may respond by pointing to the bigger thing that does matter in my view.
-- I've been accused of being too direct with people without context. I don't like smalltalk and while I respect that there I things I don't know, I often implicitly assume that people will fill me in on what I need to know if they see me assuming things in error. This can be a bad assumption.
+- I've been accused of being too direct with people without context. I don't like small talk and while I respect that there I things I don't know, I often implicitly assume that people will fill me in on what I need to know if they see me assuming things in error. This can be a bad assumption.
 - Because "my bar for done is probably lower than yours" (see above) it can appear like I don't care about details. I care (watch how rarely I make grammatical/spelling mistakes) but I care -more- about getting things out and iterating on the big picture first rather than debating wording on a button. Obviously, a lot more cases in real life are more ambiguous than that. If I make a judgement error and the detail really does matter, please call me out on it and I will work with you.
-- *This is a non exhaustive list; There are definitely more things I can't think of right now.*
+- *This is a non exhaustive list; there are definitely more things I can't think of right now.*
 
 # Misc
 
 This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
 
-This is a living document and I will update it as I refine my self-knowledge over time.
+This is a living document and I hope to update it as I refine my self-knowledge over time. kick me if you think it needs an update.
