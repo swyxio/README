@@ -81,7 +81,7 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 - I shut down when people are bikeshedding (spending disproportionate time debating small things that they know well while not discussing bigger things that really matter). Yes, what "really matters" is subjective. But I will pick silence over contributing to what I perceive as noise. If it really does matter and you see me shut off, please tell me why it matters (see 5 Whys). I may respond by pointing to the bigger thing that does matter in my view.
 - I've been accused of being too direct with people without context. I don't like small talk and while I respect that there I things I don't know, I often implicitly assume that people will fill me in on what I need to know if they see me assuming things in error. This can be a bad assumption.
 - Because "my bar for done is probably lower than yours" (see above) it can appear like I don't care about details. I care (watch how rarely I make grammatical/spelling mistakes) but I care -more- about getting things out and iterating on the big picture first rather than debating wording on a button. Obviously, a lot more cases in real life are more ambiguous than that. If I make a judgement error and the detail really does matter, please call me out on it and I will work with you.
-- *This is a non exhaustive list; there are definitely more things I can't think of right now.*
+- *This is a non-exhaustive list; there are definitely more things I can't think of right now.*
 
 # Misc
 
