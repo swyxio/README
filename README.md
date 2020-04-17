@@ -8,9 +8,9 @@ I am really keen to do great work with/for you and I can be extremely, extraordi
 
 I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
 
-## My role
+## My former role
 
-I'm excited to be a DX Engineer at Netlify! I absolutely love my job description so here it is in full:
+I was a DX Engineer at Netlify from 2018-2020. <details><summary>My job description is below.</summary>
 
 - The DX team is focused on empowering developers (customers & partners) by making it as easy &
 streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
@@ -30,7 +30,10 @@ the Netlify ecosystem.
 In other words: this is a growth + engineering role that traverses from top of funnel (awareness and
 education in talks, podcasts, blogs, seminars and workshops) through on-boarding developers into
 the product, helping to reduce churn, and improve engagement as well as revenue expansion.
+</details>
 
+I will be starting a new job later in 2020, but meanwhile, I am writing [a Career Advice book](https://gumroad.com/products/bAZJq/).
+  
 ## Me in a few words
 
 - Born and raised in Singapore, family are all still there and I visit at least once a year. My baby sister is the most important person in the world to me and she is learning to be a dentist!
@@ -71,6 +74,7 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 ## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 
+- In 2020 my top feedback was: I am too competitive - I translate everything to numbers and compare myself and my team with them.
 - In 2018-19 [the top feedback I got in my 360](https://www.swyx.io/writing/netlify-year-one-360-review) was that I don't communicate well or enough in some contexts, and often seem distracted. People report that I:
   - move fast and skip steps
   - dont provide enough context in issues or externally
