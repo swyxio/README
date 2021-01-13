@@ -8,31 +8,11 @@ I am really keen to do great work with/for you and I can be extremely, extraordi
 
 I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
 
-## My former role
+## My role
 
-I was a DX Engineer at Netlify from 2018-2020. <details><summary>My job description is below.</summary>
+I was previously a Software Engineer at Two Sigma, Senior DX Engineer at Netlify, and am currently a Senior Developer Advocate at AWS.
 
-- The DX team is focused on empowering developers (customers & partners) by making it as easy &
-streamlined as possible for them to build awesome stuff on top of the expanding Netlify Platform.
-- The DX team are the internal dogfooders. They stretch, bend, and break the tools Netlify offer to
-make things better for the ever expanding group of developers.
-- DX work closely with product, support, docs, users & partners to push the product to new heights,
-teach users what is possible with the JAMstack, and build tooling/docs/demos to attract people into
-the Netlify ecosystem.
-- As a DX engineer you will be immersed in a wild range of projects:
-  - Building demo applications with bleeding edge tech
-  - Coming up with innovative & creative ways to build things on Netlify
-  - Working with other SAAS companies and onboarding them as partner integrations
-  - Building a world class developer experiences including tooling, CLI
-  - Creating content/talks/presentations spreading awareness on what’s truly possible on Netlify
-  - Helping close enterprise sales
-
-In other words: this is a growth + engineering role that traverses from top of funnel (awareness and
-education in talks, podcasts, blogs, seminars and workshops) through on-boarding developers into
-the product, helping to reduce churn, and improve engagement as well as revenue expansion.
-</details>
-
-I will be starting a new job later in 2020, but meanwhile, I am writing [a Career Advice book](https://gumroad.com/products/bAZJq/).
+I also wrote [the Coding Career Handbook](https://www.learninpublic.org) and manage the book community on an ongoing basis..
   
 ## Me in a few words
 
@@ -62,7 +42,7 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 ## How I Work
 
 - **How should people set time with you?** I may close Slack when in the flow of things, so I may not always be present there. I check email about twice a day. I generally like scheduling video chats with a day's notice. You can also book time on my calendar whenever i'm not free and then send me a note.
-- **What's the best way to discuss issues with you?** I am extremely open to direct 1 on 1 feedback and don't need a [compliment sandwich](https://www.quickbase.com/blog/stop-using-the-compliment-sandwich-and-give-better-feedback).
+- **What's the best way to discuss issues with you?** I am extremely open to direct 1 on 1 feedback and don't need a [compliment sandwich](https://www.quickbase.com/blog/stop-using-the-compliment-sandwich-and-give-better-feedback). Likewise I may not do that with you.
 - **How do you define "Done"?** My bar for "done" is probably lower than yours (see "Learn in Public", above). But I also expect to work on things after they are "initially done", i.e. I probably see more stages to a task than most. I do not put documentation at the end of my process so much as use it as a planning and support tool while I code, but having good docs are very much part of how I define "Done". Tests are great, but only make sense if there is stability in the API/idea so it is more of a judgment call for me than some who want everything unit tested.
 - **When are you available?** I am a night owl regardless of time zone, weird but true. I am currently in New York City and typing this at 4am in the morning. I can of course do morning work if it calls for it, but I'm just sharing my weird default.
 
