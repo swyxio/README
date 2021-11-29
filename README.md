@@ -10,17 +10,17 @@ I am also very imperfect and I hope that my transparency about them here is not 
 
 ## My role
 
-I was previously a Software Engineer at Two Sigma, Senior DX Engineer at Netlify, and am currently a Senior Developer Advocate at AWS.
+I was previously a Software Engineer at Two Sigma, Senior DX Engineer at Netlify, Senior Developer Advocate at AWS, and now Head of Developer Experience at Temporal.
 
-I also wrote [the Coding Career Handbook](https://www.learninpublic.org) and manage the book community on an ongoing basis..
+I also wrote [the Coding Career Handbook](https://www.learninpublic.org) and manage the book community on an ongoing basis.
   
 ## Me in a few words
 
 - Born and raised in Singapore, family are all still there and I visit at least once a year. My baby sister is the most important person in the world to me and she is learning to be a dentist!
 - Came to the US for college in 2007
-- Started my career trading equities, interest rate, currency, and volatility derivatives in investment banks/hedge funds
+- Spent my first career in finance trading equities, interest rate, currency, and volatility derivatives in investment banks/hedge funds from 2010-2017.
 - Made apps for risk management, pricing, and portfolio management in Python and Haskell as part of the job
-- After a brief run in product management decided to make engineering my fulltime job as it's what I enjoy most
+- Decided to change careers and make engineering my fulltime job
 - Went through [Fullstack](http://fullstackacademy.com/) to get up to speed on JS as JS is everywhere
 - Started being active in [Dev Twitter](https://twitter.com/swyx), speaking in the [NYC tech meetup scene](https://nyc.js.org/), and moderating [/r/reactjs](https://www.reddit.com/r/reactjs).
 - My full english + chinese name is Shawn Wang Yue Xian, when I was 13 people started calling me "swyx" and it stuck.
@@ -69,6 +69,6 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 # Misc
 
-This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
+This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) and [User Manuals](https://docs.google.com/presentation/d/1I8Y4oNkrh1Ass32PNyzBYp3hL4scLiH7YWQmwvKxzlM/edit#slide=id.gf668f32c69_2_130). I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
 
 This is a living document and I hope to update it as I refine my self-knowledge over time. kick me if you think it needs an update.
