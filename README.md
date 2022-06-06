@@ -43,6 +43,15 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 - **How do you define "Done"?** My bar for "done" is probably lower than yours (see "Learn in Public", above). But I also expect to work on things after they are "initially done", i.e. I probably see more stages to a task than most. I do not put documentation at the end of my process so much as use it as a planning and support tool **while** I work, but having good docs are very much part of how I define "Done". Tests are great, but only make sense if there is stability in the API/idea so it is more of a judgment call for me than some who want everything unit tested.
 - **When are you available?** I generally try to work 9am-5pm PT most of the time, and try not to respond to work stuff outside hours unless urgent for work-life-balance reasons.
 
+## How I Manage
+
+- **Our Average Week**: We'll have a 1:1 every week for at least 30 minutes. We'll have a running doc where we can pop in topics for discussion - first yours, then mine. Ideally, we spend 10mins on topics you bring up, 10mins on stuff from me, 10mins aligning on future plans - but this is extremely flexible and it is your meeting to define, first and foremost. I just request that you share whatever is top of mind first, not the small talk first.
+  - Here are [13 topic ideas](https://www.manager-tools.com/forums/13-things-talk-about-your-1-1s) if you need some ideas.
+- **Principles**:
+  - **Do work you'll be proud of**. We're here to build your career by doing work you'll be proud of in 10 years. You're the main character here, I'm merely part of your supporting cast. Whenever you have doubt or need to make a choice or feel overwhelmed - ask how you could still be talking about this in 10 years and I'll keep you accountable towards that.
+  - **Drive over Motivation**. Finding things that you are intrinsically driven to do is much more effective. I'll help you work with whatever you come up with to make it make sense for the team, and give you all the ideas, connections and resources you need to do the best job.
+  - **Let's keep it simple**. If we are juggling 10 different priorities equally we may not do as good a job as just doing 3 very well.
+
 ## Personality quirks
 
 - I am a friendly introvert; I love meeting people in real life in non noisy environments.
