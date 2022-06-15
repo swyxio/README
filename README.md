@@ -47,6 +47,15 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 - **Our Average Week**: We'll have a 1:1 every week for at least 30 minutes. We'll have a running doc where we can pop in topics for discussion - first yours, then mine. Ideally, we spend 10mins on topics you bring up, 10mins on stuff from me, 10mins aligning on future plans - but this is extremely flexible and it is your meeting to define, first and foremost. I just request that you share whatever is top of mind first, not the small talk first.
   - Here are [13 topic ideas](https://www.manager-tools.com/forums/13-things-talk-about-your-1-1s) if you need some ideas.
+  - Here are [the 8 jobs of management](https://www.swyx.io/the-8-jobs-of-management/) I believe in. Explicitly call on these roles when you need me to
+  1. **Motivator/Team Builder**: Motivating our team both individually and as a group 
+  2. **Role model/Expert**: Being someone that has personal credibility on doing the job well (though I hope not to be the _best_ person - that would be you!)
+  3. **Teacher/Mentor/Coach**: Be someone that can _teach others_ to do their job well
+  4. **Champion/Sponsor**: Help my reports advance in their careers (within the company if possible)
+  5. **Go-between/Shield**: Filter external chaos, Say no to overload/bad fit
+  6. **Process designer/Organizer**: Define processes for how things are done, redefine them when it needs to improve. Organize chaos.
+  7. **Goal setter/Driver**: Assign goals to the right people, Hold people accountable to reach them
+  8. **Recruiter**. As much or as little as needed
 - **Principles**:
   - **Do work you'll be proud of**. We're here to build your career by doing work you'll be proud of in 10 years. You're the main character here, I'm merely part of your supporting cast. Whenever you have doubt or need to make a choice or feel overwhelmed - ask how you could still be talking about this in 10 years and I'll keep you accountable towards that.
   - **Drive over Motivation**. Finding things that you are intrinsically driven to do is much more effective. I'll help you work with whatever you come up with to make it make sense for the team, and give you all the ideas, connections and resources you need to do the best job.
